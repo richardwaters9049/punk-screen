@@ -14,4 +14,4 @@
 
 ## Content Integrity
 
-Identified missing image in CTF section — prevents visual dead zones, maintains user trust.
+- Identified missing image in CTF section — prevents visual dead zones, maintains user trust.
